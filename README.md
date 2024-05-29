@@ -1,4 +1,4 @@
-<h1 align="center">A passionate competitive programmer from Bangladesh</h1>
+<h1>A passionate competitive programmer from Bangladesh</h1>
 
 - 🔭 I’m currently working on **problem solving.**
 
